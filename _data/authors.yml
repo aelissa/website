@@ -2,20 +2,19 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Alessia Calafiore
+  email:             a.calafiore@liverpool.ac.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:     
-  # This photo will be used in the about section
-  #picture:
-   # path:            https://placehold.it/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-   # srcset:
-    #  1x:            https://placehold.it/128x128
-    #  2x:            https://placehold.it/256x256
+  about:            |       
+    I am a Post Doctoral Research Associate at the  [**Geographic Data Science Lab**](https://www.liverpool.ac.uk/geographic-data-science) of the [**University of Liverpool**](https://www.liverpool.ac.uk/). 
 
+    My research lies at the intersection of **data science**, **geography** and **urban planning**. I am particularly interested in exploring the social and everyday character of places to inform urban planning solutions. 
+
+    I hold a PhD in Computer Science awarded jointly by the [University of Torino](http://www.di.unito.it/do/home.pl) and [University of Luxembourg](https://wwwen.uni.lu/snt). I have a markedly interdisciplinary background spanning political science, geography and statistics.
+
+    I have been member of the European Network Exploring Research into Geospatial Information Crowdsourcing software and methodologies for harnessing geographic information from the crowd [ENERGIC](http://vgibox.eu/). 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear

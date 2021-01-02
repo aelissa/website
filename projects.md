@@ -4,7 +4,7 @@ title: Projects
 sitemap: false
 ---
 
-### Liveable Liverpool City Region: Active Travel and Liveable Neighbourhoods to support the Liverpool City Region’s post-COVID economic recovery - October 2020 - July 2021
+### Liveable Liverpool City Region: Active Travel and Liveable Neighbourhoods to support the Liverpool City Region’s post-COVID economic recovery  ---                                                 Timeline: October 2020 - July 2021
 
 The aim of this project is to expand collaborative links between the University of Liverpool (UoL) and the Liverpool City Region Combined Authority (LCRCA) to create a low carbon, inclusive and resilient city-region which supports the LCRCA’s post COVID-19 economic recovery. It will do this through support for policy analysis within LCR, focusing on LCRCA’s ability to use the Setting City Area Targets and Trajectories for Emissions Reduction tool in its decision making.
 
@@ -14,7 +14,7 @@ Specifically, the project will focus on possible LCRCA interventions related to:
 2. A scenario premised on the ’15-minute city’ – broadly put: all daily needs/services should be a maximum of a 15-minute walk/cycle from your house – currently popularised by the Mayor of Paris, Anne Hidalgo.
 
 
-### First Life - 2014 - 2018
+### First Life --- Timeline: Team member from 2014 - 2018 
 
 [First  Life](www.firstlife.org) is  a  georeferenced  civic  social  network.  It  is  baseline  technology  for  several  projects.  I  was  specifically  involved  in  the  following:  
 

@@ -7,6 +7,8 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
+Alessia Calafiore, Richard Dunning, Alex Nurse, Alex Singleton, [**The 20 minute city : an equity analysis of Liverpool City Region**](https://doi.org/10.1016/j.trd.2021.103111), Transportation Research Part D: Transport and Environment, 101, 2022
+
 Alessia Calafiore, Gregory Palmer, Sam Comber, Daniel Arribas-Bel, Alex Singleton, [**A geographic data science framework for the functional and contextual analysis of human dynamics within global cities**](https://www.sciencedirect.com/science/article/pii/S0198971520302726), Computers, Environment and Urban Systems, 85, 2021
 
 Guido Boella, Alessia Calafiore, Elena Grassi, Amon Rapp, Luigi Sanasi, Claudio Schifanella, [**FirstLife: Combining Social Networking and VGI to Create an Urban Coordination and Collaboration Platform**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8713970), IEEE Access, 7, 2019
@@ -18,9 +20,11 @@ Francesca De Filippi, Cristina Coscia, Guido Boella, Alessio Antonini, Alessia C
 
 ## Conference Proceedings
 
+Alessia Calafiore, Nombuyiselo Murage, Andrea Nasuto, Francisco Rowe, [**Deriving Spatio-Temporal Geographies of Human Mobility from GPS traces**](https://doi.org/10.25436/E26K5F),Spatial Data Science Symposium 2021 Short Paper Proceedings
+
 Marco Maria Bagliani, Alessia Calafiore, Egidio Dansero, Micol Maggiolini, Giacomo Pettenati, Nadia Tecco, [**Università come attori di politica ambientale e territoriali. Esperienze in corso all’Università di Torino**](https://iris.unito.it/bitstream/2318/1758159/1/2019%20Atti%20CGI%20Roma%202017%20Bagliani%20et%20al..pdf), XXXII Congresso Geografico Italiano, 2019
 
-Alessia Calafiore, Guido Boella, Leender van der Torre, [**From Georeferenced Data to Socio-Spatial Knowledge. Ontology Design Patterns to Discover Domain-Specific Knowledge from Crowdsourced Data**](https://link.springer.com/chapter/10.1007/978-3-030-03667-6_3), European Knowledge Acquisition Workshop, 2018 (24% acceptance rate)
+Alessia Calafiore, Guido Boella, Leender van der Torre, [**From Georeferenced Data to Socio-Spatial Knowledge. Ontology Design Patterns to Discover Domain-Specific Knowledge from Crowdsourced Data**](https://link.springer.com/chapter/10.1007/978-3-030-03667-6_3), European Knowledge Acquisition Workshop, 2018 
 
 Amon Rapp, Federica Cena, Claudio Mattutino, Alessia Calafiore, Claudio Schifanella, Elena Grassi, Guido Boella,[**Holistic User Models for Cognitive Disabilities: Personalized Tools for Supporting People with Autism in the City**](https://iris.unito.it/bitstream/2318/1671320/2/2018-HUM.pdf), Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization, 2018
 

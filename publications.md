@@ -40,7 +40,7 @@ Giacomo Pettenati, Egidio Dansero, Alessia Calafiore, [**Researching and Enablin
 
 ## Extended Abstracts 
 
-Alessia Calafiore, [**Measuring Beauty in Urban Settings.**](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_70.pdf), GISRUK, 2020
+Alessia Calafiore, [**Measuring Beauty in Urban Settings.**](http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_70.pdf), The Proceedings of the 28th GISRUK conference, 21st-23rd June 2020
 
 Alessia Calafiore, Guido Boella, Elena Grassi, Claudio Schifanella, [**Turin's Foodscapes: Exploring Places of Food Consumption Through the Prism of Social Practice Theory**](https://zenodo.org/record/1472743), Proceedings of the First Workshop on Platial Analysis (PLATIAL'18), Heidelberg, Germany, 20–21 September 2018
 

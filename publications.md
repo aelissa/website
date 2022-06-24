@@ -7,6 +7,12 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
+Francisco Rowe, Alessia Calafiore, Daniel Arribas-Bel, Krasen Samardzhiev, Martin Fleischmann, [**Urban Exodus? Understanding Human Mobility in Britain During the COVID-19 Pandemic Using Facebook Data**](https://arxiv.org/abs/2206.03272), arXiv preprint arXiv:2206.03272
+ 
+Krasen Samardzhiev, Martin Fleischmann, Daniel Arribas-Bel, Alessia Calafiore, Francisco Rowe, [**Functional signatures in Great Britain: A dataset**](https://www.sciencedirect.com/science/article/pii/S2352340922005376), Data in Brief, Volume 43, 2022
+
+Alessia Calafiore, Jacob Macdonald, Alex Singleton [**Decomposing the Temporal Signature of Nitrogen Dioxide Declines during the COVID‑19 Pandemic in UK Urban Areas**](https://link.springer.com/content/pdf/10.1007/s12061-022-09438-2.pdf), Applied Spatial Analysis and Policy, 2022
+
 Alessia Calafiore, Richard Dunning, Alex Nurse, Alex Singleton, [**The 20 minute city : an equity analysis of Liverpool City Region**](https://doi.org/10.1016/j.trd.2021.103111), Transportation Research Part D: Transport and Environment, 101, 2022
 
 Alessia Calafiore, Gregory Palmer, Sam Comber, Daniel Arribas-Bel, Alex Singleton, [**A geographic data science framework for the functional and contextual analysis of human dynamics within global cities**](https://www.sciencedirect.com/science/article/pii/S0198971520302726), Computers, Environment and Urban Systems, 85, 2021

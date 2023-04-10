@@ -2,27 +2,27 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Alessia Calafiore
-  email:             acalafio@ed.ac.uk
+  name: Alessia Calafiore
+  email: acalafio@ed.ac.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:            |       
-    I am Lecturer in Sustainability and Urban Data Science at the [**Edinburgh Future Institute**](https://efi.ed.ac.uk/) and the [**Edinburgh School of Architecture and Lanscape Architecture**](https://www.eca.ed.ac.uk/edinburgh-school-architecture-and-landscape-architecture-esala) of the [**University of Edinburgh**](https://www.ed.ac.uk/).
+  about: |
+    I am Lecturer in Sustainability and Urban Data Science at the [**Edinburgh Futures Institute**](https://efi.ed.ac.uk/) and the [**Edinburgh School of Architecture and Landscape Architecture**](https://www.eca.ed.ac.uk/edinburgh-school-architecture-and-landscape-architecture-esala) of the [**University of Edinburgh**](https://www.ed.ac.uk/).
 
     My research sits at the intersection of Urban Planning, Geography and Computer Science and I am interested in developing new **spatially informed computational methods** to better understand the mutual relationship between human behaviours and their urban contexts. This work blends traditional and new forms of data to provide quantifiable **evidence of urban dynamics** and **inform policy making**. My current substantive focus concerns how we can **equitability manage Net Zero transitions within cities**.
-    
-    
+
+
     Previously, I was a Post Doctoral Research Associate at the  [**Geographic Data Science Lab**](https://www.liverpool.ac.uk/geographic-data-science) of the [**University of Liverpool**](https://www.liverpool.ac.uk/) and I hold a PhD in Computer Science awarded jointly by the [University of Torino](http://www.di.unito.it/do/home.pl) and [University of Luxembourg](https://wwwen.uni.lu/snt). 
 
-    I have been member of the European Network Exploring Research into Geospatial Information Crowdsourcing software and methodologies for harnessing geographic information from the crowd [ENERGIC](http://vgibox.eu/). 
+    I have been member of the European Network Exploring Research into Geospatial Information Crowdsourcing software and methodologies for harnessing geographic information from the crowd [ENERGIC](http://vgibox.eu/).
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         alel_domi
-    github:          aelissa
-    email:           <acalafio@ed.ac.uk>
+    twitter: alel_domi
+    github: aelissa
+    email: <acalafio@ed.ac.uk>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -59,9 +59,8 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
-
 # Another author (optional)
 
-  #picture:           https://placehold.it/128x128
-  #twitter:           <username>
-  #github:            <username>
+#picture:           https://placehold.it/128x128
+#twitter:           <username>
+#github:            <username>

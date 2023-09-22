@@ -7,7 +7,11 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
-Francisco Rowe, Alessia Calafiore, Daniel Arribas-Bel, Krasen Samardzhiev, Martin Fleischmann, [**Urban Exodus? Understanding Human Mobility in Britain During the COVID-19 Pandemic Using Facebook Data**](https://arxiv.org/abs/2206.03272), arXiv preprint arXiv:2206.03272
+Dunning, Richard James, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [Age and the 20-min city: Accounting for variation in mobility.](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
+
+Berragan, Cillian, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Transformer based named entity recognition for place name extraction from unstructured text.**](https://www.tandfonline.com/doi/full/10.1080/13658816.2022.2133125) International Journal of Geographical Information Science 37, no. 4: 747-766, 2023.
+
+Francisco Rowe, Alessia Calafiore, Daniel Arribas-Bel, Krasen Samardzhiev, Martin Fleischmann, [**Urban Exodus? Understanding Human Mobility in Britain During the COVID-19 Pandemic Using Facebook Data**](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.2637), Population, Space and Place, 29 (1), 2023
  
 Krasen Samardzhiev, Martin Fleischmann, Daniel Arribas-Bel, Alessia Calafiore, Francisco Rowe, [**Functional signatures in Great Britain: A dataset**](https://www.sciencedirect.com/science/article/pii/S2352340922005376), Data in Brief, Volume 43, 2022
 

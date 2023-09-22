@@ -7,7 +7,7 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
-Dunning, Richard James, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [Age and the 20-min city: Accounting for variation in mobility.](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
+Dunning, Richard James, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [**Age and the 20-min city: Accounting for variation in mobility.**](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
 
 Berragan, Cillian, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Transformer based named entity recognition for place name extraction from unstructured text.**](https://www.tandfonline.com/doi/full/10.1080/13658816.2022.2133125) International Journal of Geographical Information Science 37, no. 4: 747-766, 2023.
 

@@ -7,9 +7,11 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
-Dunning, Richard James, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [**Age and the 20-min city: Accounting for variation in mobility.**](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
+Alessia Calafiore, Krasen Samardzhiev, Francisco Rowe, Martin Fleischmann, & Daniel Arribas-Bel [**Inequalities in experiencing urban functions. An exploration of human digital (geo-)footprints.**](https://doi.org/10.1177/23998083231208507) Environment and Planning B: Urban Analytics and City Science, 0(0), 2023. 
 
-Berragan, Cillian, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Transformer based named entity recognition for place name extraction from unstructured text.**](https://www.tandfonline.com/doi/full/10.1080/13658816.2022.2133125) International Journal of Geographical Information Science 37, no. 4: 747-766, 2023.
+Richard James Dunning, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [**Age and the 20-min city: Accounting for variation in mobility.**](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
+
+Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Transformer based named entity recognition for place name extraction from unstructured text.**](https://www.tandfonline.com/doi/full/10.1080/13658816.2022.2133125) International Journal of Geographical Information Science 37, no. 4: 747-766, 2023.
 
 Francisco Rowe, Alessia Calafiore, Daniel Arribas-Bel, Krasen Samardzhiev, Martin Fleischmann, [**Urban Exodus? Understanding Human Mobility in Britain During the COVID-19 Pandemic Using Facebook Data**](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.2637), Population, Space and Place, 29 (1), 2023
  

@@ -7,6 +7,10 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
+Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Mapping Great Britain's semantic footprints through a large language model analysis of Reddit comments**](https://doi.org/10.1016/j.compenvurbsys.2024.102121) Computers, Environment and Urban Systems, Volume 110, June 2024.
+
+Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley.[**Mapping cognitive place associations within the United Kingdom through online discussion on Reddit.**](https://rgs-ibg.onlinelibrary.wiley.com/doi/pdf/10.1111/tran.12669) Transactions of the Institute of British Geographers, 00:1–18, 2024. 
+
 Alessia Calafiore, Krasen Samardzhiev, Francisco Rowe, Martin Fleischmann, & Daniel Arribas-Bel [**Inequalities in experiencing urban functions. An exploration of human digital (geo-)footprints.**](https://doi.org/10.1177/23998083231208507) Environment and Planning B: Urban Analytics and City Science, 0(0), 2023. 
 
 Richard James Dunning, Les Dolega, Andrea Nasuto, Alexander Nurse, and Alessia Calafiore. [**Age and the 20-min city: Accounting for variation in mobility.**](https://www.sciencedirect.com/science/article/pii/S0143622823001364) Applied geography 156 (103005), 2023.
